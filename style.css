@@ -2,16 +2,23 @@ html {
     border: 0;
     padding: 0;
     margin: 0;
-    background: #FFF;
+}
+
+body {
+    font-family: "Arial, Helvetica";
+    background: rgba(0,0,0,0.2);
+    overflow: scroll;
 }
 
 p {
     color: #CCC;
     font-size: 12px;
-    font-family: "Arial, Helvetica";
+    font-weight: 100;
 }
 
 .myClass {
     font-size: 36px;
     height: 12.22222px;
+    border-radius: 12px;
+    color: #F1F1F1;
 }
