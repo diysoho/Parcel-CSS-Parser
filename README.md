@@ -11,7 +11,7 @@ Parcel is a PHP class that allows you to extract values from CSS/3 properties.
 Choose one of the following options:
 
 1. Download the latest stable release from
-   [Evany on Github](https://github.com/jakerb/Parcel-CSS-Parser).
+   [Parcel on Github](https://github.com/jakerb/Parcel-CSS-Parser).
 2. Clone the git repo — `git clone
    https://github.com/jakerb/Parcel-CSS-Parser.git` - and checkout the tagged
    release you'd like to use.
